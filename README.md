@@ -1,5 +1,5 @@
 <div align="center">
-# Social_Network_NoSQL-Challenge
+## Social_Network_NoSQL-Challenge
  </div>
 
 <div id="badges" align="center">
