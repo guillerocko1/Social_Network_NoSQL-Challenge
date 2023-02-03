@@ -25,7 +25,13 @@ The following animations show examples of the application's API routes being tes
 The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
 
 
-![Scheduler_screen][(https://github.com/guillerocko1/WorkDayScheduler_challenge_mod5/blob//main/scheduler.png?raw=true)]
+![Scheduler_screen][(https://github.com/guillerocko1/WorkDayScheduler_challenge_mod5/blob//main/users.png?raw=true)]
+
+![Scheduler_screen][(https://github.com/guillerocko1/WorkDayScheduler_challenge_mod5/blob//main/find_thought.png?raw=true)]
+
+![Scheduler_screen][(https://github.com/guillerocko1/WorkDayScheduler_challenge_mod5/blob//main/update_user.png?raw=true)]
+
+![Scheduler_screen][(https://github.com/guillerocko1/WorkDayScheduler_challenge_mod5/blob//main/add_friend.png?raw=true)]
 
 
 ## Author: Guillermo Hernandez 
